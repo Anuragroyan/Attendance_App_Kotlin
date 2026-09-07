@@ -1,4 +1,6 @@
-# 📊 Attendance Management App is an Android application that helps manage attendance records for students and employees using Firebase. 
+# 📊 Attendance Management App
+
+# Attendance Management App is an Android application that helps manage attendance records for students and employees using Firebase. 
 It supports complete CRUD operations, allowing users to create, view, update, and delete attendance records through a simple and organized interface.
 
 # ✨ Features
