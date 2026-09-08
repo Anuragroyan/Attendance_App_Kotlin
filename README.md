@@ -124,33 +124,3 @@ Attendance Management App can be used by:
 * 👨‍🏫 Teachers
 * 👨‍💼 Managers
 * 👥 Small organizations
-
-For example, a teacher can select a student, mark them Present or Absent, save the attendance record, and later update or remove the record when required.
-
-🎯 Project Goals
-
-* Build a practical attendance management application
-* Implement complete CRUD operations
-* Integrate Firebase with Android
-* Practice Kotlin and Jetpack Compose
-* Implement structured data management
-* Practice MVVM and Repository architecture
-* Implement attendance tracking functionality
-* Build a simple and organized Android interface
-
-💼 Portfolio Highlights
-
-Attendance Management App demonstrates practical experience with:
-
-* Kotlin
-* Jetpack Compose
-* Android SDK
-* Firebase
-* CRUD Operations
-* MVVM Architecture
-* Repository Pattern
-* Kotlin Coroutines
-* State Management
-* Cloud Data Management
-* Form & Input Handling
-* Real-World Attendance Tracking
